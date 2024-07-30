@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/01 21:09:02.000.557,=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/09 11:28:32.000.655,=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/09 11:35:07.000.210,C:\Users\royok\OneDrive\Área de Trabalho\Condicional IF\UnitPrincipal.dfm=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/09 11:35:07.000.210,C:\Users\royok\OneDrive\Área de Trabalho\Condicional IF\UnitPrincipal.pas=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/09 11:35:13.000.567,C:\Users\royok\OneDrive\Área de Trabalho\Condicional IF\Cond_IF.dproj=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
